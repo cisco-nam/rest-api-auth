@@ -1,0 +1,14 @@
+<capture>
+  <session>
+    <name>capture_session_test</name>
+    <trafficSource>1</trafficSource>
+    <dataPorts>
+      <dataPort>DATA PORT 1</dataPort>
+      <dataPort>DATA PORT 2</dataPort>
+    </dataPorts>
+    <buffer>
+      <bufferSize>10</bufferSize>
+      <wrapMode>0</wrapMode>
+    </buffer>
+  </session>
+</capture>
